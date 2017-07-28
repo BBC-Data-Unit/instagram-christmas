@@ -10,3 +10,7 @@ We looked for the top 10 cities for population in England with a hashtag (#) in 
 ## Visualisation
 
 * Infographic: Christmas on Instagram
+
+## Related repositories
+
+* [#England: The most photographed places on Instagram](https://github.com/BBC-Data-Unit/instagram-england)
